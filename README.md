@@ -1,5 +1,5 @@
 
-# Projet One For All
+# Project One For All
 
 No projeto One For All, usei uma tabela para revisar e consolidar todos os principais conceitos vistos antes.
 
